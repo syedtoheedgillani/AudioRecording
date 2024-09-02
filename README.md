@@ -32,4 +32,4 @@ QuizMonitor Plugin
 
 **Usage:**
 
-To take advantage of the AudioRecording plugin, first ensure that the QuizMonitor plugin is installed and configured. Then, integrate the AudioRecording plugin according to the provided documentation. This enables the simultaneous recording of audio alongside webcam feeds and screenshots during quizzes.
+To obtain the code, feel free to reach out to me on [Upwork](https://www.upwork.com/freelancers/~0188ff047bab91ab3c). To take advantage of the AudioRecording plugin, first ensure that the QuizMonitor plugin is installed and configured. Then, integrate the AudioRecording plugin according to the provided documentation. This enables the simultaneous recording of audio alongside webcam feeds and screenshots during quizzes.
